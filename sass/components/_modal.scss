@@ -248,11 +248,10 @@
     &:focus~.modal__custom-checkbox,
     &:hover~.modal__custom-checkbox {
         outline-color: $text-blue;
-
+    }
     &:checked~.modal__custom-checkbox {
         background-color: $text-blue;
         outline-color: $text-blue;
-    }
     }
 }
 
